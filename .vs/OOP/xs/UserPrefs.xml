@@ -1,0 +1,23 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{BB597A5D-BAEF-4090-B57B-F857000432F6}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP/Human.cs">
+    <Files>
+      <File FileName="OOP/Human.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP" expanded="True">
+            <Node name="OOP" expanded="True">
+              <Node name="Human.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.OOP PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

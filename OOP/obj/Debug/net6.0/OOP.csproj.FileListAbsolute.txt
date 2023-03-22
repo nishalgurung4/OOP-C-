@@ -1,0 +1,15 @@
+/Users/nishal/Projects/OOP/OOP/bin/Debug/net6.0/OOP
+/Users/nishal/Projects/OOP/OOP/bin/Debug/net6.0/OOP.deps.json
+/Users/nishal/Projects/OOP/OOP/bin/Debug/net6.0/OOP.runtimeconfig.json
+/Users/nishal/Projects/OOP/OOP/bin/Debug/net6.0/OOP.dll
+/Users/nishal/Projects/OOP/OOP/bin/Debug/net6.0/OOP.pdb
+/Users/nishal/Projects/OOP/OOP/obj/Debug/net6.0/OOP.csproj.AssemblyReference.cache
+/Users/nishal/Projects/OOP/OOP/obj/Debug/net6.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nishal/Projects/OOP/OOP/obj/Debug/net6.0/OOP.AssemblyInfoInputs.cache
+/Users/nishal/Projects/OOP/OOP/obj/Debug/net6.0/OOP.AssemblyInfo.cs
+/Users/nishal/Projects/OOP/OOP/obj/Debug/net6.0/OOP.csproj.CoreCompileInputs.cache
+/Users/nishal/Projects/OOP/OOP/obj/Debug/net6.0/OOP.dll
+/Users/nishal/Projects/OOP/OOP/obj/Debug/net6.0/refint/OOP.dll
+/Users/nishal/Projects/OOP/OOP/obj/Debug/net6.0/OOP.pdb
+/Users/nishal/Projects/OOP/OOP/obj/Debug/net6.0/OOP.genruntimeconfig.cache
+/Users/nishal/Projects/OOP/OOP/obj/Debug/net6.0/ref/OOP.dll
